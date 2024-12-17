@@ -4,3 +4,9 @@
     padding: 1%;
 
 }
+
+iframe
+    {
+        margin:0;
+        padding:0;
+    }
